@@ -5,6 +5,21 @@
 <body> <h1> Java</h1>
 </body>
 </html>
+ 
+#Branch102 changes
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph Example</title>
+</head>
+<body>
+    <p>This is a simple paragraph.</p>
+</body>
+</html>
+
+#branch102 ends
 
 #Branch101 changes
 
@@ -21,6 +36,7 @@
 #Branch101 end
 
 
+
 #Branch1011 changes
 <!DOCTYPE html>
 <html>
@@ -33,3 +49,4 @@
 </html>
 
 #Branch1011 ends
+
