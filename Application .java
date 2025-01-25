@@ -35,3 +35,18 @@
 
 #Branch101 end
 
+
+
+#Branch1011 changes
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="image.jpg" alt="A sample image">
+</body>
+</html>
+
+#Branch1011 ends
+
